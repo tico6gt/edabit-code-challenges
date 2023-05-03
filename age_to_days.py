@@ -7,3 +7,4 @@ def calc_age(age):
 
 calc_age(5)     # 1825
 calc_age(10)    # 3650
+calc_age(25)    # 9125
